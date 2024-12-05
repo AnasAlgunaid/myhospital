@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "488607017132",
+    "project_id": "myhospital-6c2fd",
+    "storage_bucket": "myhospital-6c2fd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488607017132:android:31e22b59d53672ed6b9709",
+        "android_client_info": {
+          "package_name": "com.example.myhospital"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488607017132-9udi3h9gv1bttljop7r581hpodl302ne.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.myhospital",
+            "certificate_hash": "07ed684d549bddcf211579117ca49392f939a655"
+          }
+        },
+        {
+          "client_id": "488607017132-olrq1jn2aa4c3gqm7k0uku2vmqtchkjm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVKakO3k7XHsu9nw8LKLlN3DKBI25vvUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488607017132-olrq1jn2aa4c3gqm7k0uku2vmqtchkjm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "488607017132-8nibc6ejehpl802aff4vfutu5oqfi972.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.myhospital"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
